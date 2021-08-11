@@ -1,7 +1,7 @@
-### Hello 👋
+### Olá! meu nome é João Henrique 👋
 
 
-- 👨‍💻 I've been fascinated by technology since I was 10 years old.
-- 💻 I' love React React ⚛️.
-- 💼 I'm looking for my first job opportunity.
-- 📧 Contact: joaohenrique17k@outlook.com
+- 👨‍💻 Sou fascinado por tecnologia desde os meus 13 anos.
+- 💻 Atualmente estou estudando React Js ⚛️.
+
+
